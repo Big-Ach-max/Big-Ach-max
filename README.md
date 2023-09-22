@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Big-Ach-max, I'm à student
+- 👋 Hi, I’m @Big-Ach-max, I'm a student
 - 👀 I’m interested in programmation 
 - 🌱 I’m currently learning pentest
 - 💞️ I’m looking to collaborate on ...
